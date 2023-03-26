@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: service-system
+  profiles:
+    active: dev #当前运行的配置文件
